@@ -13,3 +13,24 @@ h1 {
   object-fit: cover;
 }
 
+h5 {
+    text-align: center;
+    color: goldenrod;
+}
+
+h6 {
+    text-align: center;
+}
+
+button{
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card {
+    justify-content: center ;
+    display: flex;
+    align-items: center;
+
+}
