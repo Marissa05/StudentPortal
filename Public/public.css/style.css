@@ -32,5 +32,67 @@ button{
     justify-content: center ;
     display: flex;
     align-items: center;
+    margin-left: 30%;
+    margin-top: 20px;
 
 }
+
+
+
+form {
+      background-color: white;
+      padding: 25px 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 320px;
+      justify-content: center;
+      margin-left: 40%;
+      
+}
+
+h2 {
+      text-align: center;
+      margin-bottom: 20px;
+ }
+
+label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+ }
+
+input {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+}
+
+button {
+      width: 100%;
+      padding: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+}
+
+button:hover {
+      background-color: #0056b3;
+}
+
+.login-link {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 14px;
+}
+
+.login-link a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+
